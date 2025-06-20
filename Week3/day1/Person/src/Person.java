@@ -1,5 +1,7 @@
+package day1.Person.src;
+
 public class Person
-{
+{ 
     String name;
     int age;
 
