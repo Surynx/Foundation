@@ -4,8 +4,8 @@
 void main(void)
 {
    int arr[6],i,j,x;
-   //int size=sizeof(arr)/sizeof(int);
-   int size=6;
+   int size=sizeof(arr)/sizeof(int);
+   
    bool is_duplicate;
 
    printf("Elements:");
