@@ -21,6 +21,8 @@ public class Bankacc {
         if(w<balance){
         balance-=w;
         }
+
+        
         else{
             System.out.println("Dont have enough money...!");
         }
